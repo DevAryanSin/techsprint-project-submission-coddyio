@@ -1,1 +1,1 @@
-print("heljjjjccjlo")
+print("hero")
